@@ -25,9 +25,9 @@ It’s simple, responsive, and built with love for curious minds like me 😊
 
 ## 📸 Screenshots
 
-| Light Mode                      | Dark Mode                     |
-| ------------------------------- | ----------------------------- |
+ Light Mode                      
 ![light](https://raw.githubusercontent.com/Bhakti2904/funFactly/main/images/light-mode.png)
+ Dark Mode
 ![dark](https://raw.githubusercontent.com/Bhakti2904/funFactly/main/images/dark-mode.png)
 
 ---
